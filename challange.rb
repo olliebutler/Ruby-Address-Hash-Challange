@@ -18,7 +18,7 @@ def return_string(hash)
     
     hash.each {|key, value| if value.to_s.strip == ''
                                 hash.delete(key)
-                            elsif (key != 'postcode') 
+                            elsif (key != 'postcode' and key != 'house_number') 
                                 value.concat(",")
                             end}
 
