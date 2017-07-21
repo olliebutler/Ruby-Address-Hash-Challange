@@ -17,7 +17,7 @@ Sample input
 Sample output
 
 Apt 6, <br />
-22, Bailey Rd,<br />
+22 Bailey Rd,<br />
 Sale,<br />
 Greater Manchester,<br />
 M33 1AX<br />
